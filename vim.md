@@ -25,3 +25,11 @@
 * `<space>` preview selected buffer
 
 [Source](http://blog.samuelsimoes.com/vim/workflow/2014/06/27/vim-ctrlspace.html)
+
+## [sourcebeautify.vim](https://github.com/michalliu/sourcebeautify.vim)
+
+    <Leader>sb
+
+## [Emmet-vim](https://github.com/mattn/emmet-vim)
+
+    <c-y>,
