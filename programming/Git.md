@@ -2,7 +2,7 @@
 
 ## Useful commands
 
-### Remove all branchs except master
+### Remove all branches except master
 
     git branch | grep -v "master" | xargs git branch -D
 
