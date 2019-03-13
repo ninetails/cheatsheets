@@ -10,3 +10,9 @@
 
     git branch --sort=-committerdate  # DESC
     git branch --sort=committerdate  # ASC
+
+## Using Husky
+
+### Hook to prevent pushing to master
+
+    git branch | grep "*" | egrep -v "^* master$"
